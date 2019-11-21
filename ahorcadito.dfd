@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+21
+'ingrese su nickname'
+6
+3
+5
+jugar
+1
+1
+5
+salir
+1
+2
+5
+letra
+1
+x
+5
+1
+8
+'opcion'
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+13
+13
+13
+5
+1
+49
+'ingrese letras para adivinar la palabra secreta'
+4
+1
+1
+x
+7
+0
+1
+12
+x = correcto
+4
+1
+49
+la letra es incorrecta vuelva ingresar otra letra
+13
+4
+1
+1
+x
+13
+4
+1
+21
+adivinaste la palabra
+13
+1
